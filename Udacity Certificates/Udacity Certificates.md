@@ -5,7 +5,7 @@ Udacity Certificates and Project Links:
    - To access project (github repo) press [here](https://github.com/vtsou359/SQL_udacity_nanodegree)
 
 2. **Generative AI Fundamentals**:
-   - [Digital Certificate](www.udacity.com/certificate/e/1d580a4c-e170-11ef-ac27-47586a623d2c)
+   - [Digital Certificate](https://www.udacity.com/certificate/e/1d580a4c-e170-11ef-ac27-47586a623d2c)
    - To access the project (github repo) press [here](https://github.com/vtsou359/Lightweight_FineTuning_FoundationModel)
    - For Hugging Face link repo press [here](https://huggingface.co/collections/vtsou359/business-case-consumer-complaints-in-banking-67a3ceee2d5a9fad981a2d64)
 
