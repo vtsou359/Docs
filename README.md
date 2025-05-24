@@ -4,6 +4,23 @@ This repository contains various certificates, badges, articles, and other docum
 
 ## Repository Structure
 
+### Kathimerini Articles
+Contains publications in Kathimerini.
+- [Kathimerini Publications](Kathimerini%20Articles/Kathimerini_publications.pdf)
+- [ReadMe for Kathimerini Articles](Kathimerini%20Articles/ReadMe_KathimeriniArticles.md)
+
+### Imperial Business Analytics
+Contains materials related to Imperial Executive Education Business Analytics.
+- [Capstone Presentation](Imperial_Business_Analytics/CapstonePresentation/CapstonePresentation_VTsoumpris.pdf)
+- [Certificate as PDF](Imperial_Business_Analytics/Certificate/IBA_Cert_vtsoumpris.pdf)
+- [Digital Certificate](https://certificates.emeritus.org/707f65ae-1571-4d17-a4e9-d7ef5467dcf9#acc.6yHG0mLs)
+
+### The London School of Economics and Political Science (LSE) - Executive Education Program in Applied Machine Learning
+Contains materials related to LSE Executive Education Applied ML.
+- [Certificate as PDF](LSE_AppliedML/cert/lc0kdrtn_1671608659721.pdf)
+- [Digital Certificate](https://lse.credential.getsmarter.com/91052ac7-5387-465c-b354-e2411c651447#acc.oLCZlIv2)
+- [Grades](LSE_AppliedML/grades/Letter_of_Completion_Vasileios_Tsoumpris.pdf)
+
 ### Udacity Certificates
 Contains information about Udacity certificates and links to related projects.
 - [Udacity Certificates and Project Links](Udacity%20Certificates/Udacity%20Certificates.md)
@@ -20,18 +37,7 @@ Contains links to EY certificates on Credly.
   - Client Centricity
   - Data Architecture
   - Information Strategy
-
-### Kathimerini Articles
-Contains publications in Kathimerini.
-- [Kathimerini Publications](Kathimerini%20Articles/Kathimerini_publications.pdf)
-- [ReadMe for Kathimerini Articles](Kathimerini%20Articles/ReadMe_KathimeriniArticles.md)
-
-### Imperial Business Analytics
-Contains materials related to Imperial Business Analytics.
-- [Capstone Presentation](Imperial_Business_Analytics/CapstonePresentation/CapstonePresentation_VTsoumpris.pdf)
-- [Certificate as PDF](Imperial_Business_Analytics/Certificate/IBA_Cert_vtsoumpris.pdf)
-- [Digital Certificate](https://certificates.emeritus.org/707f65ae-1571-4d17-a4e9-d7ef5467dcf9#acc.6yHG0mLs)
-
+ 
 ### Coursera Certificates
 Contains Coursera certificates.
 - [Introduction to Data Science Certificate](Coursera%20Certificates/Coursera_IntroDS.pdf)
@@ -45,9 +51,9 @@ Contains Coursera certificates.
 
 
 ## Additional Content
-### Currently not included in this specific repo:
+### Links to additional Content (other repos):
 **UC Berkeley Executive Education Professional Certificate in ML/AI**:
-- **Project Repositories**:
+- **Projects**:
     - [**Capstone Project**](https://github.com/vtsou359/Credit_Score_Classification_Project)
     - [Practical Application Project 1: Coupon Acceptance](https://github.com/vtsou359/CouponAcceptance)
     - [Practical Application Project 2: Used Cars - Price Prediction](https://github.com/vtsou359/UsedCarsPrice)
@@ -59,9 +65,6 @@ Contains Coursera certificates.
   - [Grades as PDF](https://github.com/vtsou359/BHMLAI_WeeklyProjects/blob/main/certificate/grades/UCB_MLAI_Grades.pdf)
 
 **The London School of Economics and Political Science (LSE) - Executive Education Program in Applied Machine Learning**:
-- [Certificate as PDF](LSE_AppliedML/cert/lc0kdrtn_1671608659721.pdf)
-- [Digital Certificate](https://lse.credential.getsmarter.com/91052ac7-5387-465c-b354-e2411c651447#acc.oLCZlIv2)
-- [Grades](LSE_AppliedML/grades/Letter_of_Completion_Vasileios_Tsoumpris.pdf)
 - Link to Repo: Repo under development
 
 ## Contact
