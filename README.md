@@ -2,7 +2,7 @@
 
 This repository contains various certificates, badges, articles, and other documentation organized in different directories. Below you'll find information about each section and where to find specific details.
 
-## Repository Structure
+## Docs Repository Structure
 
 ### Kathimerini Articles
 Contains publications in Kathimerini.
@@ -50,10 +50,10 @@ Contains Coursera certificates.
 3. For markdown files (.md), you can view them directly on GitHub.
 
 
-## Additional Content
-### Links to additional Content (other repos):
-**UC Berkeley Executive Education Professional Certificate in ML/AI**:
-- **Projects**:
+## Additional Important Content
+### Links to additional Content (other Github Repositories):
+**UC Berkeley Executive Education - Professional Certificate in ML/AI**:
+- **Projects (in Github)**:
     - [**Capstone Project**](https://github.com/vtsou359/Credit_Score_Classification_Project)
     - [Practical Application Project 1: Coupon Acceptance](https://github.com/vtsou359/CouponAcceptance)
     - [Practical Application Project 2: Used Cars - Price Prediction](https://github.com/vtsou359/UsedCarsPrice)
@@ -65,7 +65,7 @@ Contains Coursera certificates.
   - [Grades as PDF](https://github.com/vtsou359/BHMLAI_WeeklyProjects/blob/main/certificate/grades/UCB_MLAI_Grades.pdf)
 
 **The London School of Economics and Political Science (LSE) - Executive Education Program in Applied Machine Learning**:
-- Link to Repo: Repo under development
+- [**Link to Repository**](https://github.com/vtsou359/LSE_ExecEd_AppliedML)
 
 ## Contact
 
